@@ -1,4 +1,8 @@
-nivel,cantidad,colores
-1,8586,	#005377
-2,11300,#5FA8D3
-3,3666,#F2CC8F
+cantidad,nivel;
+8586,1;
+11300,2;
+3666,3;
+;
+;
+;
+;
